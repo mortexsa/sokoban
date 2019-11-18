@@ -1,8 +1,8 @@
 # sokoban
 jeu sokoban avec plusieurs lvl et un mode créatif
 
-##Compilation :
-### make 
+#Compilation :
+make 
 
-##Lancer le jeu:
-### ./sokoban sasquatch1.xsb
+#Lancer le jeu:
+./sokoban sasquatch1.xsb
